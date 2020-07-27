@@ -1,15 +1,6 @@
 """Name of the program: CLI extraction of database values and plotting of histogram.
 
-Name: Samad Patel
-
-
-Description:This program takes the arguments from CLI and namely the path of the database,the query and an optional argument
-when you run the program through CLI without the optional argument you will get the desired output of database table values which is the sub-project2.
-When you run the program through CLI using the optional parameter you get a beautiful histogram with the values plotted.
-The libraries used in this program are pandas,pylab,matplotlib,argparse and tabulate.
-
-Relevant information:The program saves the plotted figure in a png image format when you run the program
-using the optional parameter.You can open the saved png image."""
+Name: Samad Patel"""
 
 import argparse
 import sqlite3
