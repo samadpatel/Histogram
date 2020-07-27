@@ -7,3 +7,8 @@ The libraries used in this program are pandas,pylab,matplotlib,argparse and tabu
 
 Relevant information:The program saves the plotted figure in a png image format when you run the program
 using the optional parameter.You can open the saved png image."""
+
+
+Run this argument to get the desired output from the chinook.db database
+
+python CSQuery.py -p -d chinook.db -s "SELECT BillingCountry, BillingCity, Total from Invoices where total > 15.0;"
