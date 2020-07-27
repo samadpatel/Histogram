@@ -2,7 +2,6 @@
 
 Name: Samad Patel
 
-CNumber:C0749505
 
 Description:This program takes the arguments from CLI and namely the path of the database,the query and an optional argument
 when you run the program through CLI without the optional argument you will get the desired output of database table values which is the sub-project2.
